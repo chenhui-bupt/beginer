@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat May 05 11:30:40 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0163-2e5a-0192-00000f2993c0 
+on database directory /Users/chenhui/works/beginer/nlp-beginer/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@5c733eef 
+Loaded from file:/Users/chenhui/spark-2.2.0-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=/Users/chenhui/works/beginer/nlp-beginer
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
