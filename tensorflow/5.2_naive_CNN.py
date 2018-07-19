@@ -5,7 +5,7 @@ mnist = input_data.read_data_sets("MNIST_data/", one_hot=True)
 sess = tf.InteractiveSession()
 
 def weight_variable(shape):
-    initial = tf.truncated_normal(shape, stddev=.1)
+    initial = tf.truncated_normal(shape, stddev=.1)  # more than 2 standard deviations from mean are dropped
     return tf.Variable(initial)
 
 def bias_variable(shape):
